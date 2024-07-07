@@ -1,17 +1,1 @@
-{
-    "abbreviation": "UTC",
-    "client_ip": "2601:646:c000:4430::375a",
-    "datetime": "2024-07-07T19:08:19.139130+00:00",
-    "day_of_week": 0,
-    "day_of_year": 189,
-    "dst": false,
-    "dst_from": null,
-    "dst_offset": 0,
-    "dst_until": null,
-    "raw_offset": 0,
-    "timezone": "Etc/UTC",
-    "unixtime": 1720379299,
-    "utc_datetime": "2024-07-07T19:08:19.139130+00:00",
-    "utc_offset": "+00:00",
-    "week_number": 27
-}
+{}
