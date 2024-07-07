@@ -1,1 +1,22 @@
-
+{
+  "1b3733b57d198a525286116cd1bda2a0f26f8957b2aa4a590c6294f1332a0522": {
+    "hwid": "298h98ahf890ashbdabiuh9h2",
+    "expiry": 1720402283
+  },
+  "d0b8ce9729fd2d0a1a1b25379261dd932c485d158dc2e0b85b14127991951c74": {
+    "hwid": "298h98ahf890ashbdabiuh9h2",
+    "expiry": 1720402283
+  },
+  "275738e0b424c4b37244470ec6534f88f14810bdcb014b4c4c6712d77feaaa10": {
+    "hwid": "sfa98wda98whd9awd9ha98hdw9",
+    "expiry": 1720748401
+  },
+  "ab33dc000daa24afcf287369603934dc7c8c4b4c59f5fde94a06b5cd92bff67f": {
+    "hwid": "sfa98wda98whd9awd9ha98hdw9",
+    "expiry": 1722390669
+  },
+  "113b120aa29790be41c6de51e183885535491af8efdf9a5b330f4e4b9f214eed": {
+    "hwid": "sfa98wda98whd9awd9ha98hdw9",
+    "expiry": 1721181273
+  }
+}
