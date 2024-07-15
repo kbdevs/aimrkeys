@@ -83,10 +83,6 @@
         "hwid": "5e7b3b516de4bb699dcf3284b0c21cb7",
         "expiry": 1752593398
     },
-    "19bfd7e67b5d623838df9fb9fb73b3ffe09955c92406d2ee1386595ad116be2d": {
-        "hwid": "1e33b17ead0b9a0dac883a6413207ad8",
-        "expiry": 1723650962
-    },
     "e9369eb9e34d33d3dd6699b548cc77c5e6742e6e38338b46aeebe1ef0f55035e": {
         "hwid": "1e33b17ead0b9a0dac883a6413207ad8",
         "expiry": 1723650969
@@ -98,22 +94,6 @@
     "5382499dcb616e9068c1cc6c00f9bc51fb8521ba85333c10f37926e882ba2b61": {
         "hwid": "ca9c1efa7fc914914442528b384cf8ac",
         "expiry": 1723660985
-    },
-    "6fb446065653319ab10607d9147762fbc6a560ef49e9f49a0ba0862d4ed778c4": {
-        "hwid": "aaa46af108910efafc24604fde668eea",
-        "expiry": 1752611887
-    },
-    "b6f600bffb8b08366bc837fc101852f9161ee0fc41f87c563e33f101d016b429": {
-        "hwid": "aaa46af108910efafc24604fde668eea",
-        "expiry": 1752611894
-    },
-    "457573a10fd5b4e81d4ce5fa53ecbf03b795a9a3b28d6d05311a8a822eaf5a1c": {
-        "hwid": "aaa46af108910efafc24604fde668eea",
-        "expiry": 1752611896
-    },
-    "b15d9a018c90deffb83a858e0adb2c3046186afef89bac2e8c4e5b42feffbda6": {
-        "hwid": "aaa46af108910efafc24604fde668eea",
-        "expiry": 1752611914
     },
     "d6977d31e4d78b760a628bbf4d6bea232191e032b1733a8ebd464420b712f563": {
         "hwid": "aaa46af108910efafc24604fde668eea",
