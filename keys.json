@@ -23,14 +23,6 @@
         "hwid": "8c9f7547cf40aa6db96fe571452d6601",
         "expiry": 1752286871
     },
-    "841ef0c774b211ef035c7d07639e0a6c90b16e7a3cadb2de78b2e9b90bb4dc8b": {
-        "hwid": "7fef195e7a9f88c580e587eafd9dbfbb",
-        "expiry": 1731122841
-    },
-    "321832543d32f7f3f7685da6383400328c7136bc7759d2cf22390ea903f83fee": {
-        "hwid": "faa09f794ca0a88bbace0e42f1c64f7f",
-        "expiry": 1723389299
-    },
     "f481f98e2f04630b65a690290003e9da15d90056fd368d793f8fd991e091afc0": {
         "hwid": "a93032f8e52273b614b5ffc48d3b1e65",
         "expiry": 1807111284
@@ -47,17 +39,9 @@
         "hwid": "cb3509ccf9e401d64d2a024dec118d66",
         "expiry": 1752340855
     },
-    "f1a10eb115b9e9f24416bfb9a8bafbd1a52ac5e5d2fd3fc651f51a5d7ad639ca": {
-        "hwid": "0c83c198f191dee887407bf28e3e8f76",
-        "expiry": 1752359051
-    },
     "f398bc7cb8ac4013dc0d2746b51c954b1d07c8a389220a2a3f97224ce2ddffb2": {
         "hwid": "0c83c198f191dee887407bf28e3e8f76",
         "expiry": 1752359060
-    },
-    "fc19c5d9844b904fa3fd8406fb045f5a4b24bc721e2c9f51ede5e4e18406c03f": {
-        "hwid": "c0b097101695e2c13ea4a48a25ac7d74",
-        "expiry": 1752372998
     },
     "1817f6c8d86c54839408dab5608b859df8b73b5caaa9fb5a8e4bf0997f2a8071": {
         "hwid": "c0b097101695e2c13ea4a48a25ac7d74",
@@ -79,17 +63,9 @@
         "hwid": "81e7c929df4830496cf24b45a0f0a197",
         "expiry": 1752507670
     },
-    "cad6ed724ec21e3a2407264a478abd91f44c354a454691e49ba0096e3e0e7225": {
-        "hwid": "a8f3bc17515b85f309b2e4c68e7ecc19",
-        "expiry": 1752507694
-    },
     "ec8426b7dab41223470be4656d37822fda075a5b40c7ef8e1a105060030488d9": {
         "hwid": "a8f3bc17515b85f309b2e4c68e7ecc19",
         "expiry": 1752507702
-    },
-    "4354e9b7fda0f39db3a7a2c0f575045af87f0b2f6e586999417c23ca1fef2de6": {
-        "hwid": "7fef195e7a9f88c580e587eafd9dbfbb",
-        "expiry": 1723606982
     },
     "8ca82a0515774b6db67b36c19154ba0fbd0a2dbd85028b913d6b2cce97ad3f95": {
         "hwid": "7fef195e7a9f88c580e587eafd9dbfbb",
