@@ -130,5 +130,9 @@
     "ddb81a44e2085d7d6cb6835caa50426ccfa76846624bbcf91b872d4396a0d12b": {
         "hwid": "test",
         "expiry": 1721772384
+    },
+    "a6976da242a15b601946826c1b13eaeb9d0520e767795df401f9bdfe3eee4007": {
+        "hwid": "test",
+        "expiry": 1721772437
     }
 }
