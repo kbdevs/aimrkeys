@@ -118,33 +118,5 @@
     "bd6286426e7edde7efe6e5f095c73ac30201504ee6d81d2daa5ff66100910a2e": {
         "hwid": "81e7c929df4830496cf24b45a0f0a197",
         "expiry": 1752702467
-    },
-    "ce031222bd2107e379852ab2cecc584b99eee0083ac77f1fefda85aa7f0d9b70": {
-        "hwid": "test",
-        "expiry": 1721772272
-    },
-    "c6ba295e18d106fce720f30ceb71292e8b70a1abdab05fed244716e9a5715e50": {
-        "hwid": "test",
-        "expiry": 1721772347
-    },
-    "ddb81a44e2085d7d6cb6835caa50426ccfa76846624bbcf91b872d4396a0d12b": {
-        "hwid": "test",
-        "expiry": 1721772384
-    },
-    "a6976da242a15b601946826c1b13eaeb9d0520e767795df401f9bdfe3eee4007": {
-        "hwid": "test",
-        "expiry": 1721772437
-    },
-    "62d6e230bb8f34cf2fe0369932d218abf720ff528629d1df85131f7282049e19": {
-        "hwid": "test",
-        "expiry": 1721772458
-    },
-    "57e249aa6324d564e18fd951bae61f69ccc749390ca8f1a2ac7c44d2c8ae0733": {
-        "hwid": "test",
-        "expiry": 1721772490
-    },
-    "1c02ce380b30bc2200841f60ad6de9d9d882a82a870099c68f528040fa7737c5": {
-        "hwid": "test",
-        "expiry": 1721772608
     }
 }
