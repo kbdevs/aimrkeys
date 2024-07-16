@@ -118,21 +118,5 @@
     "bd6286426e7edde7efe6e5f095c73ac30201504ee6d81d2daa5ff66100910a2e": {
         "hwid": "81e7c929df4830496cf24b45a0f0a197",
         "expiry": 1752702467
-    },
-    "e60e88d16bfa93a286c1aa649555866493f33c9960a90c453b16c6930d8058cd": {
-        "hwid": "test",
-        "expiry": 1721772900
-    },
-    "f6ead6a3db9b0d592182de8cc2cbbf59140df0775464cd4d2fe8256f352389a2": {
-        "hwid": "test",
-        "expiry": 1721772901
-    },
-    "00c9c6137bdc38eb687a830779fb8d7ffd8c2a9902163318cf79ab9df4875e41": {
-        "hwid": "test",
-        "expiry": 1721772941
-    },
-    "441b909d6dd78ed3460042128547214dad64f480cf4d98428d42e4b7ee8f8eea": {
-        "hwid": "test",
-        "expiry": 1721772945
     }
 }
