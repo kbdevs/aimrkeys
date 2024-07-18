@@ -150,5 +150,9 @@
     "0dc142b37861a44afb804d217d06b5a19db12fa7cea5b4fc6a2c415cb942aac9": {
         "hwid": "fda690ef372250bcf79fabc398fd2621",
         "expiry": 1752783315
+    },
+    "09ae55fc2f5af58cb6669e174a19337f9167693f263c41f77b4ec1622385b118": {
+        "hwid": "f36c6885b29c30049540aa8cb4e04369",
+        "expiry": 1752819952
     }
 }
