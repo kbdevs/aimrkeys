@@ -234,5 +234,9 @@
     "8482f1f2e07eed1cd6e9868807f29bca307b5ce50d695bfe24b8890dce8cca69": {
         "hwid": "7a9cb152bd987fbf5ace23af4a2c8484",
         "expiry": 1753734621
+    },
+    "fbe6bda5700debc9be96058d14a67831c8f87faab0edaebc416d83cf60cfaaf7": {
+        "hwid": "615ff327fc6ce3c9058b28f01a4c1095",
+        "expiry": 1723779244
     }
 }
