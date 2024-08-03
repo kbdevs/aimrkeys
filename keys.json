@@ -262,5 +262,9 @@
     "b34712308c358fab5b3d8e8df6e98d8afb3fec0238f1e415ff3338e3d1ca7f46": {
         "hwid": "e93cdc66e25a2faf85541a534ef298df",
         "expiry": 1723252898
+    },
+    "9bfdae191114b0c798de3607bb0d849213a381c38b3fedc0fd840ae6b3d33fb6": {
+        "hwid": "8096a6ba864b37df975fd912e12a563d",
+        "expiry": 1723778065
     }
 }
