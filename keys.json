@@ -308,5 +308,10 @@
         "hwid": "b93e13aa969623f396df8a3473754b5c",
         "ip": "c513d4c6196509bc0c8c4e8a677caf94",
         "expiry": 1738433205
+    },
+    "baf7828e618260adb9f1b22e7f390484c934c000730bbf98a3921971e498ab1a": {
+        "hwid": "0ff0f0b051f8ea56748f11bf1bf537b1",
+        "ip": "ebebafb725a795971a21fad0424e9560",
+        "expiry": 1725476828
     }
 }
