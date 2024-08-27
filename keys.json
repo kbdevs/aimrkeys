@@ -1,220 +1,4 @@
 {
-    "31c629fbc549e78e4a78430412da725266efd33fa0de540d032b29c24e19c664": {
-        "hwid": "e807d54658882f1b754b75d3393f899a",
-        "expiry": 1752255029
-    },
-    "eccdbdeb52bb6dbd9518629a2389c9d04d80407d45a0e2bf7ec6cf2a9b4b02a1": {
-        "hwid": "830e07ee187ba32776a115937ca2e157",
-        "expiry": 1752259813
-    },
-    "48eacd33da70e619105e63f1a747e8c0328138bf589b0bb896729f1ea784476e": {
-        "hwid": "730ec4df3e9fdc4c50954ad248bb5755",
-        "expiry": 1752283536
-    },
-    "bf0927821b457ada1186a6b4acc741891467bde3ca65b5f2e3859b9198ac5a3c": {
-        "hwid": "8c9f7547cf40aa6db96fe571452d6601",
-        "expiry": 1752286871
-    },
-    "65c59a9518bb1dcbe62dcd5bf557bc45ba8acf9094cc11100c9afc3cae0b5276": {
-        "hwid": "83b144455291e179be147d64ffc8571f",
-        "expiry": 1752333758
-    },
-    "ee845b2fe8f0a3a290d897577483bc961283fb15241ac2887801bfb6d17742fe": {
-        "hwid": "fd9e09e2ce82202cb7a09212dbf91a12",
-        "expiry": 1752337304
-    },
-    "7b4c40292f669d4f1fc7f39d56fbf0ecbf5d732262a7fd4bc34e3b5077518cbe": {
-        "hwid": "cb3509ccf9e401d64d2a024dec118d66",
-        "expiry": 1752340855
-    },
-    "f398bc7cb8ac4013dc0d2746b51c954b1d07c8a389220a2a3f97224ce2ddffb2": {
-        "hwid": "0c83c198f191dee887407bf28e3e8f76",
-        "expiry": 1752359060
-    },
-    "1817f6c8d86c54839408dab5608b859df8b73b5caaa9fb5a8e4bf0997f2a8071": {
-        "hwid": "c0b097101695e2c13ea4a48a25ac7d74",
-        "expiry": 1752373005
-    },
-    "4af7a88992436f5ac5207e2eb1be4b474223f7fd230030dd6502edb8d3bba9b6": {
-        "hwid": "03f69ceffb278ac6d774e61b3dc1a045",
-        "expiry": 1752435691
-    },
-    "ec8426b7dab41223470be4656d37822fda075a5b40c7ef8e1a105060030488d9": {
-        "hwid": "a8f3bc17515b85f309b2e4c68e7ecc19",
-        "expiry": 1752507702
-    },
-    "8ca82a0515774b6db67b36c19154ba0fbd0a2dbd85028b913d6b2cce97ad3f95": {
-        "hwid": "7fef195e7a9f88c580e587eafd9dbfbb",
-        "expiry": 1723606993
-    },
-    "fec39a4bd7e976a362ef646881a6ac8cc2ffa373abf50b877464de3d596f34e8": {
-        "hwid": "9dad9bc31aef39503f6051b073a91cef",
-        "expiry": 1752554774
-    },
-    "864b561593cb3c192ef881dc27a85fa2e2e6942574f3487bd4bd0f4b2c9b1449": {
-        "hwid": "89d086a734cc688f576bd56e2d54689f",
-        "expiry": 1723649069
-    },
-    "2c524a918226591b5cbd6ed468608ffc02148a6401bb7cee02aa66049790f52d": {
-        "hwid": "5e7b3b516de4bb699dcf3284b0c21cb7",
-        "expiry": 1752593398
-    },
-    "e9369eb9e34d33d3dd6699b548cc77c5e6742e6e38338b46aeebe1ef0f55035e": {
-        "hwid": "1e33b17ead0b9a0dac883a6413207ad8",
-        "expiry": 1723650969
-    },
-    "dff2ab3326b4ef16b753d57c38cf1489c76fce29560a70ab0552ecc2ae5f6b5b": {
-        "hwid": "4be73439ddd49eeda602ef7d37d88e82",
-        "expiry": 1752598703
-    },
-    "5382499dcb616e9068c1cc6c00f9bc51fb8521ba85333c10f37926e882ba2b61": {
-        "hwid": "ca9c1efa7fc914914442528b384cf8ac",
-        "expiry": 1723660985
-    },
-    "d6977d31e4d78b760a628bbf4d6bea232191e032b1733a8ebd464420b712f563": {
-        "hwid": "aaa46af108910efafc24604fde668eea",
-        "expiry": 1752611939
-    },
-    "aa3cb0391701437b9e27b2577508875e77c523439e0b640a137d5c8c02924a8e": {
-        "hwid": "d0acef8da5c743e0428d9e6f4c1e1c9f",
-        "expiry": 1726342398
-    },
-    "bd6286426e7edde7efe6e5f095c73ac30201504ee6d81d2daa5ff66100910a2e": {
-        "hwid": "81e7c929df4830496cf24b45a0f0a197",
-        "expiry": 1752702467
-    },
-    "402f27481f5ae432b38dc64ad168caab61784db8a350c54377d03795d20e0f23": {
-        "hwid": "830e07ee187ba32776a115937ca2e157",
-        "expiry": 1752771134
-    },
-    "b0c2b88d58ab6976ef9f6925f4373612b18111ff55612398e05b13bbef56d6a5": {
-        "hwid": "612301bb992ebfbc1188b9bd32954130",
-        "expiry": 1752776909
-    },
-    "0dc142b37861a44afb804d217d06b5a19db12fa7cea5b4fc6a2c415cb942aac9": {
-        "hwid": "fda690ef372250bcf79fabc398fd2621",
-        "expiry": 1752783315
-    },
-    "09ae55fc2f5af58cb6669e174a19337f9167693f263c41f77b4ec1622385b118": {
-        "hwid": "f36c6885b29c30049540aa8cb4e04369",
-        "expiry": 1752819952
-    },
-    "2f986ece0078c14a4663acf159855e4b33f8308f588fb353513dbec12f71359a": {
-        "hwid": "56ef2c59285c9abe37dc75525b7e8da8",
-        "expiry": 1752891373
-    },
-    "917843fd88e23ef8266f4e4dfd3bc47e66a983df2ad5ccc3a7cbafc8cd1c6ba5": {
-        "hwid": "c7f47f04c39c10a3a105eb7a7a578486",
-        "expiry": 1752956912
-    },
-    "914664ce7daea0445759e0427ac9f36b5332c28adc2e781ddaf2b06d4a9bfe89": {
-        "hwid": "47629d93a2d0c8704673b1ad35fb3de6",
-        "expiry": 1752992225
-    },
-    "694cbdce9f5dfc0d71d6b8e0ca50421f11de3560496f04ea0f965eaabc020586": {
-        "hwid": "349592275b1f9d20fa5d2203f43c18fd",
-        "expiry": 1753041166
-    },
-    "0e1031dcf705e36e9a82144cce9bf82cf325a8e8d0e229f009b392b8a711e871": {
-        "hwid": "080463a1926fd8acfc7d9cb7b5bf811a",
-        "expiry": 1724097535
-    },
-    "6b1686b6c2106e522ff90738705b4bf49453c3d07240d4358d129c1fffebd7b9": {
-        "hwid": "fb6797491c63b2e52b0d54acaf4c3abc",
-        "expiry": 1724129159
-    },
-    "098eeba34472fb0afeeab3d1a168edf37fd2b8e7f05280c42d60182b50ef52df": {
-        "hwid": "8b3e778f846f81d58fe96f5ea0351fef",
-        "expiry": 1753139021
-    },
-    "3a91af4bfc6e9f8b89219a2eae086de32c067a358203d5169c610c98e4d5e5a6": {
-        "hwid": "d87c248a13c8f28bc359d61abee792c6",
-        "expiry": 1753309160
-    },
-    "c63bf91577aab9defe4f922265628b3fcdd4dbcfb7527d3d76c54d16037b6977": {
-        "hwid": "091b12f0c21231d27cf540dc3178679b",
-        "expiry": 1724435402
-    },
-    "2240ac79c10b9de709e713390cc55797b9adb6319166e2b902318836eeef05db": {
-        "hwid": "cdffd284874109898b40844439d353a2",
-        "expiry": 1724446681
-    },
-    "7a0f6edf3350c8339183775a3b930c3415a4d67025b14ffb20b4845409ef1a5d": {
-        "hwid": "c69772fda7aa9f2be4e48a677053a087",
-        "expiry": 1753408501
-    },
-    "3643d9570a8089b0de41d95c3b8eba7b1f5c29017e39c20775c2ea44de9205ef": {
-        "hwid": "c69772fda7aa9f2be4e48a677053a087",
-        "expiry": 1724464511
-    },
-    "75841c3b1a5a06f426beb3da7e4fa64020965971d6b5c9832deb67c106ba3824": {
-        "hwid": "1a2b3b7863b4ca47c6bedb91433083f8",
-        "expiry": 1724465838
-    },
-    "6c69238b1592965e5836a2b1ca3ac6b10936f9c77a2182c3c4393677f82a90d0": {
-        "hwid": "40e8fc5596a4765fc7dee5dbab88f861",
-        "expiry": 1753673098
-    },
-    "8482f1f2e07eed1cd6e9868807f29bca307b5ce50d695bfe24b8890dce8cca69": {
-        "hwid": "7a9cb152bd987fbf5ace23af4a2c8484",
-        "expiry": 1753734621
-    },
-    "adace67d1cb669364e281ed029eee15669858de33c59b9e2f367330bd2b0d337": {
-        "hwid": "96f0144ed59ddb49317c5c6c1cda0f7a",
-        "expiry": 1753809609
-    },
-    "313faa59e27c0dab3f0eb7fc38b06bcaaeb21d8b7b37182bdaa0372f265b5b4a": {
-        "hwid": "3b12f06683e31152f3ea5350c7fb362e",
-        "expiry": 1724947658
-    },
-    "80c9df4aa0bfc6e0687e783cf3d5d45edeabe4d59a8e47aae560dcf2ace095ce": {
-        "hwid": "18f19b375d5be1c537ec55d87c65d1ea",
-        "expiry": 1808705555
-    },
-    "8ff8a8539706f08661a175d5666ada33b2a9b32f18e5d5d2ebecc60913ecff36": {
-        "hwid": "b48fbd025291a416a5864bc093ddd875",
-        "expiry": 1725051732
-    },
-    "87db0b112f1b2e17c8f52c052cf634cf41f34625b2909bb4e5bc46315e9e556a": {
-        "hwid": "a93032f8e52273b614b5ffc48d3b1e65",
-        "ip": "30fa1a95cbfe0e74f38a67715c665e53",
-        "expiry": 1808969462
-    },
-    "55a8e0bbc160d5ec660dddec4d766e5f730a71798fd7b226fef194ccfc4a7ae2": {
-        "hwid": "59939d01c5b23282524385df35a19512",
-        "ip": "7bfc7df1ad03f4bef6460426d7b840ad",
-        "expiry": 1809013891
-    },
-    "ad9e788e1d353b369a515813ba8388b35f0be098a4ed902a38ef3deaa2c34835": {
-        "hwid": "3b838cb64b40de52d7e988640be5d3b5",
-        "ip": "68d74b4ea7fad1df3223d0ca3e11f36a",
-        "expiry": 1754237096
-    },
-    "7f01323a0ccdf8efaf2e336d11a083e638b698ea54d9cf3eee716b2d4502f396": {
-        "hwid": "a5907a3fcbc55d2bccb5b886385f5f1f",
-        "ip": "13858195710c1c1a0f0dce0d68aa7b90",
-        "expiry": 1730496781
-    },
-    "c4b30c90ab56e7a63c879f80f928a0940a8f73b4bcdf64d84a09fd4a76263d2c": {
-        "hwid": "8c9f7547cf40aa6db96fe571452d6601",
-        "ip": "f128f6ebb4f3a8f18886109b65d14fbc",
-        "expiry": 1754267522
-    },
-    "19a675b48941fed98ea998ade275d13e62ed47f9d31979031144d181bba057cd": {
-        "hwid": "b9962359ce6ccdac948be6f0097c0db2",
-        "ip": "b9962359ce6ccdac948be6f0097c0db2",
-        "expiry": 1751739135
-    },
-    "baf7828e618260adb9f1b22e7f390484c934c000730bbf98a3921971e498ab1a": {
-        "hwid": "0ff0f0b051f8ea56748f11bf1bf537b1",
-        "ip": "ebebafb725a795971a21fad0424e9560",
-        "expiry": 1725476828
-    },
-    "c42c6fb2a397e7adc96aae4b92b19c231fc65ec1b05faf2a026ced7f91204356": {
-        "hwid": "aea0805c354df5db6cc7c2f8d9237fbe",
-        "id": "1258151951342895118",
-        "expiry": 1725464633
-    },
     "d955739371fb7ff0c06f9cc170e25a235104f4b0adc0bf72feb45fd5116e33e3": {
         "hwid": "046c3550b3de46e2b458654d99ba274d",
         "ip": "f085469a9f9030529ae5329f0a5e2e60",
@@ -226,11 +10,6 @@
         "ip": "9f81ae8a9b2165b9fcaacb7544d8d257",
         "id": "1004747045040570410",
         "expiry": 1725650202
-    },
-    "65d7104e935ac8bd1143514eca658832897ccf254e676ac3ba71cf11927c739c": {
-        "hwid": "64193ac6e34ffcfbffa1a2cbbd2fe1d3",
-        "id": "167114233438404609",
-        "expiry": 1725483103
     },
     "7df80a7e0132828f3a76aa7fb57bd6004817d7e0c5621513f54e7a5ecfb8d636": {
         "hwid": "c662927f9d53e06eadc094add2bdb780",
@@ -261,11 +40,6 @@
         "ip": "836639e6b7d5e5747c32379530f51f2a",
         "id": "236501385959440385",
         "expiry": 1752329697
-    },
-    "49ab851c044aa0101be3c0172dbe03f4e6cfd01585594b64b111233720754c2f": {
-        "hwid": "d0acef8da5c743e0428d9e6f4c1e1c9f",
-        "id": "478609194086563862",
-        "expiry": 1726008566
     },
     "c8f33a09b327f86b40c481f25f2f329dc6185efe184de5a09a421ede7e3a36b1": {
         "hwid": "8fa61d2e66bedd4fdfaf1052fb5517df",
@@ -374,11 +148,6 @@
         "ip": "7fcd65f992bf9470ffe4f915cbb63c88",
         "id": "960298996033798214",
         "expiry": 1726803170
-    },
-    "5fa9f3bff35dccec51d621dce6198021f9e128519fdeb513689599bbcc538328": {
-        "hwid": "f71ca8b443d789949cda4308a56c69cd",
-        "id": "550829764961894421",
-        "expiry": 1727013144
     },
     "98de056c1c31de0f9b7ae748a3746a44293dafb8f97afafcce5b86dda94c8a5c": {
         "hwid": "8096a6ba864b37df975fd912e12a563d",
