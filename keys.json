@@ -142,52 +142,11 @@
         "id": 803383765522055208,
         "expiry": 1751928134
     },
-    "487f91215439ee219e879aa51ae94413601d908e3f7b1de323ae193144bf2cb2": {
-        "hwid": "49adb83ec15b8084642ac233fa76ec8f",
-        "ip": "77e7a066a2c62f19cce6200e8597bfbe",
-        "id": 930092114673541141,
-        "expiry": 1734316097
-    },
-    "e68d4a3679b3f1c5d792191c8e1e7fc4c118bb866476fb534436153c26dfca9f": {
-        "hwid": "0f168c5bd5a47eff961b0061aae60f87",
-        "ip": "fe10cae5e0bf16c829adde218793af9f",
-        "id": 834916508463398982,
-        "expiry": 1734321547
-    },
     "74bf692be68bb9ff03244aacd2e2535494439a5acf1918e7b3bb7406cecb9b61": {
         "hwid": "ea48f2a137d8f8da0163b55be4f1f219",
         "ip": "e63240fc03fdb5638b1f26d10f24e156",
         "id": 395977152014843904,
         "expiry": 1747394347
-    },
-    "02b7a8ea783b806b39a94e62d5acd6a073a7341343ff454a66186ef367871e58": {
-        "hwid": "560c63ea66874333aac4f7e9e2bce1aa",
-        "ip": "6e8445f9b65321cf5f8a0744d4896ed6",
-        "id": 799101490249596928,
-        "expiry": 1734368379
-    },
-    "72648e98b2f956964260f7202f49e23e85f50f11f6980e63518122f6ffb04a50": {
-        "hwid": "9d6f5a3f10d46e391df5f50950d601fd",
-        "ip": "ee41011addc00ce33a74e38115a9adc4",
-        "id": 609596083756204063,
-        "expiry": 1734842844
-    },
-    "00d3d96d2963f968c083e943394797b5d39ac5fa866c2f54a8d84fb97a82c6da": {
-        "hwid": "755e9fae6f39d1bb43f76cafd430bbfe",
-        "ip": "2614a424bb18c4adf222cb2d428d1403",
-        "id": 450716188658630658,
-        "expiry": 1734843576
-    },
-    "5774d9f2852cbebaa020ef03d679479cd85ce63e6568ac9379f95f1c5ba969a2": {
-        "hwid": "708c487147d4542e2eafb723c2594c45",
-        "ip": "e8bf56cdfe4f4b20ee1e5f2664e534ce",
-        "id": 1181353674027569244,
-        "expiry": 1734929912
-    },
-    "6fddd852a3ee84d2e3c961b757873af44ca721bfe405f59e2be96f0b0850d08e": {
-        "hwid": "a4e7f7ec342b2ee1eefc41ad2f730300",
-        "id": 1284271886074773569,
-        "expiry": 1734979274
     },
     "1128cb9197bbc5c6463ab3617f03e0def448f074b81508975ea822631db11a80": {
         "hwid": "5dff559513e144290d5d3cdabadf77c3",
