@@ -64,12 +64,6 @@
         "id": "1130605024754552905",
         "expiry": 1752274536
     },
-    "cf01f7ebdac1bf0be94d30eace6cd927e9b31d40d736166e317bd9378bd15e0e": {
-        "hwid": "51da724aac47356b0ca0d84c6b224df1",
-        "ip": "56b7465637b459f9c571c95eeabf03e5",
-        "id": "1281626117442371596",
-        "expiry": 1737923933
-    },
     "17112ee5f7d6751ddfac23f07af44e02fd1e30bfccaaba709dad5aaa1cfd2dc9": {
         "hwid": "e4e35f4a864e89ccdf4c2c0e90372e23",
         "ip": "ddcef8d89675b977bbcef860d52d62ce",
@@ -342,5 +336,11 @@
         "id": 636330411483725826,
         "expiry": 1737335111,
         "created": 1734743111
+    },
+    "frozen-2602317;cf01f7ebdac1bf0be94d30eace6cd927e9b31d40d736166e317bd9378bd15e0e": {
+        "hwid": "51da724aac47356b0ca0d84c6b224df1",
+        "ip": "56b7465637b459f9c571c95eeabf03e5",
+        "id": "1281626117442371596",
+        "expiry": 1737923933
     }
 }
