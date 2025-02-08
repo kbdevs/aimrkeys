@@ -1,0 +1,39 @@
+{
+  "Fortnite Legit": {
+      "author": "kbdevs",
+      "description": "Good settings for legit Fortnite gameplay",
+      "date": "2024-01-20",
+      "config": {
+          "amount": 100,
+          "human": 50,
+          "recoil": 10,
+          "prediction": true,
+          "prediction_amount": 10,
+          "detection": true,
+          "fov_style": "rounded",
+          "detection_style": "rounded", 
+          "max_detections": 5,
+          "drawcrosshair": true,
+          "drawinfo": true,
+          "drawfov": true,
+          "drawdetections": true,
+          "aim_line": false,
+          "obs": false,
+          "confidence": 40,
+          "shoot": true,
+          "silent": false,
+          "method": "win32",
+          "always": false,
+          "aimkey": "lmb",
+          "trigger_key": "rmb", 
+          "trigger_delay": 100,
+          "trigger_fov": 5,
+          "side": 1.0,
+          "smoothness": 50,
+          "headshot": 0.083,
+          "fov": 6,
+          "window_opacity": 0.9,
+          "model": "yolov8n"
+      }
+    }
+}
