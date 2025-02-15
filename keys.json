@@ -165,46 +165,6 @@
         "expiry": 1822355395,
         "created": 1736041795
     },
-    "dd47443416a755b63e9a2e31cdb0e73975fd5c19a5dd5c10d5714dc03d175c73": {
-        "hwid": "a2557180d3c8e9430e1f4c3e6e4d3575",
-        "ip": "3c17f0b14de62b7b0d85c900d82e0311",
-        "id": 1327300258966929465,
-        "expiry": 1739240091,
-        "created": 1736648091
-    },
-    "5ede51b587d764d8d645f26d65aab05473585b3a7327df99cbf51ddbaf5f6138": {
-        "hwid": "85f54a22357a14a15c84f3f04ed63beb",
-        "id": 152090767286861825,
-        "expiry": 1739248995,
-        "created": 1736656995
-    },
-    "fa8039b149ce44187159ba7e44d7dadf7569b1e49053eb079d888d524ad18b2c": {
-        "hwid": "3d127e8abc27836b30845b0e6c04cfdf",
-        "ip": "434b834407d4ee782908e78ea83fd6cc",
-        "id": 767576713055436830,
-        "expiry": 1739325464,
-        "created": 1736733464
-    },
-    "6f823a685c2a2c7cba0f6e267ad7e519bcc516af5ce685adf2680b261f239a39": {
-        "hwid": "4005246fa182a0eed06c53f6032cc2ec",
-        "ip": "8f90fecac67868894d8b5aa21e2de39f",
-        "id": 156834766262370304,
-        "expiry": 1739414756,
-        "created": 1736822756
-    },
-    "5d946bb5460d6a251c108fb2fcc7afb66128ac0c6dbcb46fe7eb458f3a775c5f": {
-        "hwid": "1f6eb5afaa97238c36bce55ac546ff0c",
-        "ip": "fcec034688414cdef2b3a761798fdb10",
-        "id": 662233333672968202,
-        "expiry": 1739461983,
-        "created": 1736869983
-    },
-    "7bdadc6ad27e6c0bb698ef1a81f47b4d55d97d68e32891396389462c6bec631a": {
-        "hwid": "51e27203cd79218678569db5e341e59b",
-        "id": 587870849579876352,
-        "expiry": 1739507123,
-        "created": 1736915123
-    },
     "e95c606cde1b3412372c824a8332a7229aaf720b4dcf8326788a26b4763ca113": {
         "hwid": "a9a6595c3b6e32cde4ad682c71e39c47",
         "ip": "e364ee8946a96f2920f3a0a6a9743060",
@@ -344,47 +304,6 @@
         "expiry": 1824740048,
         "created": 1738386071
     },
-    "e06b22a4b4dfc4f925aec613f0fa58be926728fc237feafdba6478b92df80c70": {
-        "hwid": "07c9a1d082a25e3516f2a0828e770649",
-        "ip": "4491b2440115b00f1954763371e3d7f5",
-        "id": 877932137230249984,
-        "expiry": 1739038975,
-        "created": 1738434175
-    },
-    "fe73fdef01497704518ea07a5f4f787034982028185b420022d99a19736b7022": {
-        "hwid": "844186f92886d37ac10a542ec595f4b5",
-        "ip": "b58f5b1e37319a596884024d4a92852a",
-        "id": 906998270998511676,
-        "expiry": 1739044951,
-        "created": 1738440151
-    },
-    "282cfe0878158de3febf01907db3e0db532b83c7d7b42dbf52905d7dc514bb8c": {
-        "hwid": "4c16f3946677ee2ba85d41536aad86af",
-        "ip": "cefbd130ccc312affea87b64a437e214",
-        "id": 1314828231228002384,
-        "expiry": 1739044956,
-        "created": 1738440156
-    },
-    "3bbe7886d642e199ae0440959e9eb1b2a156e77d2ba617a71bd264e49f413301": {
-        "hwid": "d119716b8959517484fddb8b21ff5a8b",
-        "id": 1333173578014785669,
-        "expiry": 1739133918,
-        "created": 1738529118
-    },
-    "53ff69dee4b14081516b79bfd2f8c05831ee3ebac8385f054530a92df75b8baa": {
-        "hwid": "21613c815fbbbd5fb3850fb30aa6f3df",
-        "ip": "d36dbe9444f7ae8e3590b93bc5b5c1f7",
-        "id": 1265708274943135766,
-        "expiry": 1739251583,
-        "created": 1738646783
-    },
-    "1850e2d6424a0305191d630c9be51e3a0682bcd698eb30197d07e8bdca79a1f1": {
-        "hwid": "60c3eaa707f8b7f640cb6365f3d5cf9d",
-        "ip": "130c90886d86d495e3a3c88931e2cfae",
-        "id": 666045642342137869,
-        "expiry": 1739288414,
-        "created": 1738683614
-    },
     "54e9f8cd8c4465d0b3dcae27b1dc996f4f60b89cb22e18b2098b0f9825dff967": {
         "hwid": "8ce29d7326e53b579cbd92fedaf226c0",
         "ip": "f0e0ad723467e728d3219e0da79c3588",
@@ -405,13 +324,6 @@
         "id": 1238832224741232663,
         "expiry": 1739645102,
         "created": 1739040302
-    },
-    "e5b3af413900998b18620096f32f3aca7054e5bc86d4522f31528f882b292261": {
-        "hwid": "7aab6d6c6c991d3cc6ed6bb318334fdd",
-        "ip": "032f4218ec39bc532089cc4f154c8dd5",
-        "id": 1308915382098071653,
-        "expiry": 1739172026,
-        "created": 1739085626
     },
     "7c930341d15abc78b25330cd84d224d391627ca8168403408291c18b1fffda3f": {
         "hwid": "ab99115339a082bfd6c0b1acc19ecded",
@@ -434,13 +346,6 @@
         "expiry": 1741881374,
         "created": 1739289374
     },
-    "6cd0d775eb93547e25a11aa2e35d4a6cfecb11b30607ce7fbd44a14611108bdf": {
-        "hwid": "1a3a2f8fd22396e1badee1caa650ec60",
-        "ip": "06b8ceeccdf15009ebae54f46f097c90",
-        "id": 349715255254974465,
-        "expiry": 1739461872,
-        "created": 1739375472
-    },
     "f1d0fc2995c09b4b68f5a20829648c18b4a7599dc966269eee26b346e5a135d3": {
         "hwid": "5fa91c8764e100f20b8de4da118bbfa9",
         "ip": "497b5ba2a6776b6b1e9500e1d576377e",
@@ -454,13 +359,6 @@
         "id": 221302749793484800,
         "expiry": 1739980284,
         "created": 1739375484
-    },
-    "22116827ec6562fba808499358b36eee60b8b72563291ce8ddf9812f667d0d8f": {
-        "hwid": "c537f617bf6e0ede8ed93c89a16e5cc9",
-        "ip": "9ae2409c36d2389ac4e44785df1de7da",
-        "id": 820978154071523349,
-        "expiry": 1739579405,
-        "created": 1739493005
     },
     "4524aef69caeadcb16e4308cbd9d56f2a5be3e82abb2018560cf9f5f1c1514fc": {
         "hwid": "22056a7781fd7e742483e640cdd3d143",
