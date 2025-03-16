@@ -1,7 +1,7 @@
 {
-  "Fortnite Legit": {
+  "TESTING CONFIG": {
       "author": "kbdevs",
-      "description": "Good settings for legit Fortnite gameplay",
+      "description": "DO NOT USE",
       "date": "2024-01-20",
       "config": {
           "amount": 100,
@@ -36,9 +36,9 @@
           "model": "yolov8n"
       }
     },
-  "Fortnite Legit2": {
+  "TESTING CONFIG 2": {
       "author": "kbdevs2",
-      "description": "Good settings for legit Fortnite gameplay2",
+      "description": "DO NOT USE",
       "date": "2024-01-202",
       "config": {
           "amount": 100,
