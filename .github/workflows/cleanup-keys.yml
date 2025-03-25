@@ -31,4 +31,7 @@ jobs:
           git add keys.json
           git commit -m "Remove expired keys" || echo "No changes to commit"
           git push
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+
 
