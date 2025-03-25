@@ -56,5 +56,5 @@ async def on_ready():
                 print(f'Removed role {role.name} from user {member.name}')
 
     await bot.close()
-
+print(os.getenv("DISCORD_BOT_TOKEN"))
 bot.run(os.getenv("DISCORD_BOT_TOKEN"))
