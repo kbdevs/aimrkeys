@@ -65,7 +65,7 @@ async def on_ready():
     await bot.close()
 
 # Get token from environment variable
-discord_token = os.getenv('DISCORD_BOT_TOKEN')
+discord_token = os.environ('DISCORD_BOT_TOKEN')
 if not discord_token:
     raise ValueError("DISCORD_BOT_TOKEN environment variable is not set")
 
