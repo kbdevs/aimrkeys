@@ -17,7 +17,6 @@ expired_ids = []
 
 for key, value in data.items():
     expiry = value.get("expiry")
-    expired_ids.append(value.get("id"))
     
     # Skip frozen keys
     if key.startswith("frozen-"):
@@ -25,6 +24,7 @@ for key, value in data.items():
 
     # Remove expired keys
     if expiry and expiry < current_time:
+        expired_ids.append(value.get("id"))
         keys_to_remove.append(key)
 
 # Remove expired keys
