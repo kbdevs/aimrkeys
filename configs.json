@@ -26,5 +26,30 @@
       "aim_line": false,
       "max_detections": 1
     }
+  },
+  "best fortnite cfg": {
+    "author": "kudzyy",
+    "description": "best with high fps",
+    "date": "2024-09-01",
+    "config": {
+      "detection":true,
+     "shoot":true,
+     "aimkey":"RMB",
+     "side":2.0,
+     "smoothness":100,
+     "confidence":49,
+     "fov":2.0,
+     "rpc":true,
+     "always":false,
+     "headshot":10,
+     "obs":false,
+     "amount":1.0,
+     "human":100.0,
+     "drawfps":true,
+     "drawmark":true,
+     "prediction":true,
+     "prediction_amount": 10.0,
+      "rounded": true
+    }
   }
 }
