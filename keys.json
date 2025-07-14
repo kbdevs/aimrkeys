@@ -13,13 +13,6 @@
         "expiry": 1811731567,
         "last_edited": 0
     },
-    "8513984ee0adf29cce978c9f627baf556505a114cd037bdafa930167850c78bb": {
-        "hwid": "4335b97625c804fe0082fc417333015e",
-        "ip": "211db506f90201b16743559a5a05f92b",
-        "id": "1244705735326044306",
-        "expiry": 1752456498,
-        "last_edited": 1746392817
-    },
     "90bde7a6d0f8f4f77fd8954dece375243edd96b1e5a54bc5d57f7faabfe4fce5": {
         "hwid": "cf1771fb8df78b0fe17a688386cdd135",
         "id": "867978298649624577",
@@ -31,13 +24,6 @@
         "ip": "4083b79a570d837d4dcb59865b9db7d3",
         "id": "599667995672838153",
         "expiry": 1813114183,
-        "last_edited": 0
-    },
-    "fc84c0799c191f46256ff3a9bbead51b935109928ebea46c0487b07774ff472d": {
-        "hwid": "db4bea537b412d2dcb2cdb1e27f25fb4",
-        "ip": "d0040beac4a2e7ea2e39a5d72e2114cc",
-        "id": "957982993786503278",
-        "expiry": 1752457012,
         "last_edited": 0
     },
     "8a7454ef7547121cbc97d26cc8c62ca4d08c5de3b06f26cc15a6f676a8346316": {
@@ -494,14 +480,6 @@
         "created": 1752252590,
         "last_edited": 0
     },
-    "d815f001b461c22ab64e0fa80e027b93f41212faf279f311a937ece739401916": {
-        "hwid": "df7fcf27883c44d2c333e97cc4d74d18",
-        "ip": "de2172dee3f2acd9170518628ec5b031",
-        "id": "1053275704709623829",
-        "expiry": 1752864940,
-        "created": 1752260140,
-        "last_edited": 1752348767
-    },
     "33f69477575e3206c79c168e958164a185a84fd54af1d3bf21336227b3e58973": {
         "hwid": "dc627bdb134a35732dd52c9e427e257d",
         "ip": "711f27b81d32f160631974b2ac55f6f2",
@@ -525,5 +503,13 @@
         "expiry": 1753056541,
         "created": 1752451741,
         "last_edited": 0
+    },
+    "frozen-404995;d815f001b461c22ab64e0fa80e027b93f41212faf279f311a937ece739401916": {
+        "hwid": "df7fcf27883c44d2c333e97cc4d74d18",
+        "ip": "de2172dee3f2acd9170518628ec5b031",
+        "id": "1053275704709623829",
+        "expiry": 1752864940,
+        "created": 1752260140,
+        "last_edited": 1752348767
     }
 }
