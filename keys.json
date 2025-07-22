@@ -465,14 +465,6 @@
         "created": 1752587414,
         "last_edited": 0
     },
-    "bad18dafbfab0ec01cf1899bc7af308c4aeba273c2d30abce821e1905f8a4662": {
-        "hwid": "3704966e815e723bb1678f125f9a92ad",
-        "ip": "8ecbad424103e74768135926b992272a",
-        "id": "899751259026899047",
-        "expiry": 1753217220,
-        "created": 1752612420,
-        "last_edited": 0
-    },
     "frozen-1283228;dbb465ac3af4085fe0fd160e6179841e1b40e12f52d2585cabab9637576d8c52": {
         "hwid": "/customer_create_key hwid_checker_output:HWID:```9b81d6e9c91e6149e017a93c5409d1d4``` IP:```e1f00612f48017f890734def57cc85e9```",
         "ip": "e1f00612f48017f890734def57cc85e9",
