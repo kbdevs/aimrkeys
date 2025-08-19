@@ -522,13 +522,5 @@
         "expiry": 1841120338,
         "created": 1754806738,
         "last_edited": 0
-    },
-    "a66c212a5e26da398c46e0d63176b764a555fa514cb53b6370ac9dc0d262c037": {
-        "hwid": "31c177f9d1f227ffd7043ede8e2ae424",
-        "ip": "5b9e4eaa58db0aa169f9cec4403aa9cb",
-        "id": "1171085119386304574",
-        "expiry": 1755598738,
-        "created": 1754993938,
-        "last_edited": 0
     }
 }
