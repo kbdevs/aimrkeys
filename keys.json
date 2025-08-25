@@ -546,13 +546,5 @@
         "expiry": 1830759340,
         "created": 1744445740,
         "last_edited": 1748988535
-    },
-    "e73089de39d1edb113b89e144abc55dd23defa962c83e507f7e2a440c977fbc2": {
-        "hwid": "68b4d949dc23efa4406da28ecbebf1a0",
-        "ip": "57d6ce750643d3a8e9857335bb2f90a5",
-        "id": "1232336341384167446",
-        "expiry": 1756150279,
-        "created": 1756063879,
-        "last_edited": 0
     }
 }
